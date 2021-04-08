@@ -1,2 +1,2 @@
-# Accordions
-Created with CodeSandbox
+# React Accordions
+Project created to practice React.
